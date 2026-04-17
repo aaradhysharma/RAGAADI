@@ -1,0 +1,4 @@
+{"id":"q1","question":"What are common reliability practices in cloud architecture?","expected_answer_contains":["availability zones","health checks","auto-healing"],"notes":"From sample_cloud_notes.md","source_hint":"sample_cloud_notes.md"}
+{"id":"q2","question":"What is caching and name one risk/trade-off?","expected_answer_contains":["latency","stale"],"notes":"Caching definition and risks","source_hint":"sample_cloud_notes.md"}
+{"id":"q3","question":"What does observability typically combine?","expected_answer_contains":["logs","metrics","traces"],"notes":"Observability components","source_hint":"sample_cloud_notes.md"}
+

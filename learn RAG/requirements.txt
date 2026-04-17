@@ -1,0 +1,16 @@
+# Colab-friendly minimal set.
+# If your corporate environment blocks some packages, install only what's needed per notebook.
+
+langchain>=0.2
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+
+faiss-cpu>=1.8
+numpy>=1.26
+
+# Local fallback embeddings (optional but recommended for restricted envs)
+sentence-transformers>=3.0
+
+# Document parsing (optional)
+pypdf>=4.0
+
